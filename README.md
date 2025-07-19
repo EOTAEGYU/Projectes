@@ -9,9 +9,11 @@
 
 | No  | Title    | Desc                                         | Stack                                               | Scale | Link                                                           |
 | --- | -------- | -------------------------------------------- | --------------------------------------------------- | ----- | -------------------------------------------------------------- |
-| 1   | Keynote  | 오프라인 회의 중 실시간으로 텍스트화(STT) 하고 요약(LLM) 해주는 서비스 | SpringBoot, MySQL, NKS, GCP, Docker, React, Flutter | 10명   | [Github링크](https://github.com/onezero-dju/2024-UCD_WEB_SERVER) |
-| 2   | 천재지변     | 서울시 공공 데이터를 활용한 재난 안전 대피소 위치 제공 서비스          | SpringBoot, React, Docker, AWS                      | 4명    | [Github링크](https://github.com/SpringCooler/spring_cooler)      |
-| 3   | Rossetta | 경계성 지능 아동들을 위한 온라인 학습 서비스                    | SpringBoot, React, Docker, GCP                      | 4명    | [Github링크](https://github.com/EOTAEGYU/24SolChl_Rossetta)      |
+| 1   | Solra  | Kubernetes 멀티 클러스터 통합 관리 서비스 | VMware, Kubernetes, SpringBoot, MySQL, Redis, React | 3명   | [Github링크](https://github.com/solra-org) |
+| 2   | Stofka  | Kafka를 활용한 실시간 코인 데이터 차트화 | VMware, Kubernetes, Kafka, SpringBoot, MySQL, Redis | 4명   | [Github링크](https://github.com/Team-Stofka) |
+| 3   | Keynote  | 오프라인 회의 중 실시간으로 텍스트화(STT) 하고 요약(LLM) 해주는 서비스 | SpringBoot, MySQL, NKS, GCP, Docker, React, Flutter | 10명   | [Github링크](https://github.com/onezero-dju/2024-UCD_WEB_SERVER) |
+| 4   | 천재지변     | 서울시 공공 데이터를 활용한 재난 안전 대피소 위치 제공 서비스          | SpringBoot, React, Docker, AWS                      | 4명    | [Github링크](https://github.com/SpringCooler/spring_cooler)      |
+| 5   | Rossetta | 경계성 지능 아동들을 위한 온라인 학습 서비스                    | SpringBoot, React, Docker, GCP                      | 4명    | [Github링크](https://github.com/EOTAEGYU/24SolChl_Rossetta)      |
 
 ---
 ### 🍀Mini Project
